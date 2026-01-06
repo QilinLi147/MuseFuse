@@ -1,6 +1,6 @@
 # MuseFuse: Multi-View Feature Fusion for Music Emotion Recognition
 
-Official implementation of **MuseFuse** framework for music emotion recognition on **Memo2496** dataset, as published in *IEEE Transactions on Affective Computing*.
+Official implementation of **MuseFuse** framework for music emotion recognition on **Memo2496** dataset, as submitted in *IEEE Transactions on Affective Computing*.
 
 ## Framework Overview
 
